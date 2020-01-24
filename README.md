@@ -12,8 +12,7 @@ To launch, clone or download repo.
 
 On the commandline:
 
-NPM INSTALL 
+cd APIStarter then
 
- then
- 
-NPM START
+npm install
+npm start
