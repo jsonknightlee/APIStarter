@@ -1,6 +1,6 @@
 # APIStarter
 
-Currently only setup with async await and to use MongDB Atlas.
+Currently only setup with async await and db on MongDB Atlas.
 
 To get started get free account at https://www.mongodb.com/cloud/atlas
 
