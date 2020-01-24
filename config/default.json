@@ -1,0 +1,4 @@
+{
+    "mongoURI": "YOUR_ATLAS_CONN_STRING",
+    "jwtSecret": "YOUR_JWT_SECRET"
+}
