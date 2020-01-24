@@ -15,4 +15,5 @@ On the commandline:
 cd APIStarter then
 
 npm install
+
 npm start
